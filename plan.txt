@@ -1,0 +1,13 @@
+Naive Bayes + Bag of Words
+
+Naive Bayes + TF-IDF
+
+Logistic Regression + TF-IDF
+
+Logistic Regression + TF-IDF + bigrams
+
+SVM + TF-IDF
+
+Random Forest
+
+Ensemble (Logistic + SVM)
